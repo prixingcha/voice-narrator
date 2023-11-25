@@ -43,5 +43,3 @@ In another terminal, run the narrator:
 python narrator.py
 ```
 
-# voice-narrator
-# voice-narrator

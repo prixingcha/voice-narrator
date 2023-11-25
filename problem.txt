@@ -1,0 +1,3 @@
+there is some problem in the code , most probably it has something to do with the voice id, but nothing else
+
+need to replace the os.getenv('') keys from env file.
